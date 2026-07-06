@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm **Paula**, a machine learning & AI engineer.
-📍 Alicante, Spain
+I'm **Paula**, a biomedical engineer passionate about machine learning and AI.
 
 ## Languages and Tools
 
